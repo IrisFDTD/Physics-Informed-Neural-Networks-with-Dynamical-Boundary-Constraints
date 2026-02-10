@@ -2,11 +2,11 @@
 
 Andrés Martínez-Esteban $^{1,2}$, Pablo Calvo-Barlés $^{2,3}$, Luis Martín Moreno $^{2,3}$ and Sergio G Rodrigo $^{1,2,*}$
 
-*$^1$ Departamento de Física Aplicada, Facultad de Ciencias, Universidad de Zaragoza, 50009 Zaragoza, Spain*
+* $^1$ Departamento de Física Aplicada, Facultad de Ciencias, Universidad de Zaragoza, 50009 Zaragoza, Spain *
 
-*$^2$ Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain*
+* $^2$ Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain *
 
-*$^3$ Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza 50009, Spain*
+* $^3$ Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza 50009, Spain *
 
 $^*$ corresponding author: sergut@unizar.es
 
