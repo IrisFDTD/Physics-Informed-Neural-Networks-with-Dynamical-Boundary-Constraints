@@ -16,7 +16,7 @@ $^*$ corresponding author: sergut@unizar.es
 # Jupyter notebook
 The notebook demonstrates how to solve a 2nd-order Ordinary Differential Equation (ODE) using a PINN with dynamical boundary constraints. Specifically, solves the harmonic oscillator equation with specific initial conditions, implementing an novel technique for PINNs that incorporates:
 + Traditional PINN losses: for the differential equation and initial conditions.
-+ Dynamical Boundary Conditions (DBCs): A new loss term that constrains the PINN at the boundaries of training intervals.
++ Dynamical Boundary Constraints (DBCs): A new loss term that constrains the PINN at the boundaries of training intervals.
 + Gradient-Enhanced PINN (gPINN): An additional third-derivative constraint to improve accuracy.
 
 Implementation: Uses TensorFlow/Keras to build a neural network that learns to satisfy both the physical equations and the boundary constraints during training.
