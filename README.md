@@ -1,4 +1,4 @@
-# Supplementary material - Physics-Informed Neural Networks with Dynamical Boundary Constraints
+# Supplementary material - Physics-informed neural networks with dynamical boundary constraints
 
 Andrés Martínez-Esteban $^{1,2}$, Pablo Calvo-Barlés $^{2,3}$, Luis Martín Moreno $^{2,3}$ and Sergio G Rodrigo $^{1,2,*}$
 
